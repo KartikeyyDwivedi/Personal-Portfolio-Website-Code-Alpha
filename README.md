@@ -23,7 +23,7 @@ main-folder
 
 ## Screenshots:
 
-![portfolio screenshot](https://github.com/saifiimuhammad/Portfolio-Website-CodeAlpha/assets/99310347/e5e5f648-c431-4047-a993-6a4f5ee0b4eb)
+![portfolio screenshot](
 
 
 ---
