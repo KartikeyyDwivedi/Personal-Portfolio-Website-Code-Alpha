@@ -1,4 +1,4 @@
-# Portfolio-Website-CodeAlpha
+# Portfolio-Website
 
 **Author:** Kartikey Dwivedi  
 **Email:** kartikeydwivedi55@gmail.com  
