@@ -3,7 +3,7 @@
 **Author:** Kartikey Dwivedi  
 **Email:** kartikeydwivedi55@gmail.com  
 
-This repository contains the code for a portfolio website created by Muhammad Saif during his internship at CodeAlpha. The website is built using HTML, CSS, JavaScript, and Scrollrevealjs for animations. It is designed to be responsive across different devices.
+This repository contains the code for a portfolio website created by Kartikey Dwivedi. The website is built using HTML, CSS, JavaScript, and Scrollrevealjs for animations. It is designed to be responsive across different devices.
 
 ## Technologies Used:
 - HTML
